@@ -21,3 +21,5 @@
 7- Ajustar:
  - SATURACAO_1_REAL_MIN
  - SATURACAO_1_REAL_MAX
+
+<img width="1056" height="843" alt="image" src="https://github.com/user-attachments/assets/bdad342d-05eb-4b6e-9e86-5729d8d8d470" />
